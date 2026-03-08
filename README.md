@@ -7,6 +7,7 @@ North-West University, South Africa
 ---
 
 > Passionate about learning how data and intelligent systems can solve real-world problems.
+
 > “Data!data!data!I can't make bricks without clay.”
 
 ---
